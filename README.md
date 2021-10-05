@@ -1,2 +1,2 @@
-# iso-25.les01-serch.github.io
+# iso-25.github.io
 Моя сторінка пошуку
